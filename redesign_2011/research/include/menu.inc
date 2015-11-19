@@ -26,6 +26,7 @@
 -->
 
 <li><a href="../CV/Bio_jinl.txt">Bio</a></li>
+<li><a href="../CV/Resume_jinl_2016.pdf">Resume</a></li>
 
 <!--
 <li><a href="../about.aspx">More about Jin Li</a>
