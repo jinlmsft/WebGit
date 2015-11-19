@@ -1,9 +1,17 @@
 Dr. Jin Li is a Partner Researcher Manager of the Cloud 
 Computing and Storage group at MSR Technologies. He is the architect and 
-the lead programmer of Prajna, a cloud programming platform (in 
-prototype). He believes that he can bring high efficient distributed 
-programming to the mass, and revolutionize how people program a 
-distributed cluster today.
+the lead programmer of Prajna, a cloud computing platform (in 
+prototype). Prajna is a response to fill the vacuum of big data computing 
+on .Net platform, it is open sourced at https://github.com/msrccs/Prajna/.
+It is designed to be a generic distributed computing platform, with core 
+functionality being the execution of an arbitrary closure (C#, F#, native 
+code, etc.) on any remote node, in public cloud or in private cluster. 
+Prajna supports interactive big data computing across a cluster with in-memory 
+computation. The programming API is similar to Spark. Prajna has also a 
+managed web service (Prajna Hub), which can help developer to quickly 
+prototype and host cloud service and run services on mobile Apps. 
+Prajna also supports distributed machine learning (e.g., distributed neural 
+network trainer using Caffe on each node). 
 
 Partner with Windows Azure, he leads a small team of MSR researchers to 
 develop the local reconstruction code (LRC) in Windows Azure Storage. 
