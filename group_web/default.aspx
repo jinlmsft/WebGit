@@ -3,18 +3,20 @@ CCS: Cloud Computing and Storage
 <!--#include file ="include/header_l1r2.inc" -->
 <table style="width: 100%">
 	<tr>
-		<img class="left" "alt="Cloud Computing" height="95" longdesc="CCS Logo" src="images/cloudcomputing.jpg">
-
-		<img class="left" "alt="Xian-Sheng Hua" height="145" longdesc="Xian-Sheng Hua's Photo" src="images/xshua.jpg" width="110">
-		<img class="left" "alt="Cheng Huang" height="145" longdesc="Cheng Huang's Photo" src="images/chengh.jpg" width="110">
-		<img class="left" "alt="Jin Li" height="145" longdesc="Jin Li's Photo" src="images/JinLi.jpg" width="110">
-		<img class="left" "alt="Sanjeev Mehrotra" height="145" longdesc="Sanjeev Mehrotra's Photo" src="images/Sanjeevm.jpg" width="110">
-		<img class="left" "alt="Sudipta Sengupta" height="145" longdesc="Sudipta Sengupta's Photo" src="images/sudipta.jpg" width="110">
+		<img class="left" "alt="Cloud Computing" height="75" longdesc="CCS Logo" src="images/cloudcomputing.jpg">
+		<img class="left" "alt="Bruno Bozza" height="90" longdesc="Bruno Bozza's Photo" src="images/bruno.jpg" width="70">		
+		<img class="left" "alt="Yuxiao Hu" height="90" longdesc="Yuxiao Hu's Photo" src="images/yuxiaohu.jpg" width="70">
+		<img class="left" "alt="Cheng Huang" height="90" longdesc="Cheng Huang's Photo" src="images/chengh.jpg" width="70">
+		<img class="left" "alt="Jin Li" height="90" longdesc="Jin Li's Photo" src="images/JinLi.jpg" width="70">
+		<img class="left" "alt="Sanjeev Mehrotra" height="90" longdesc="Sanjeev Mehrotra's Photo" src="images/Sanjeevm.jpg" width="70">
+		<img class="left" "alt="Sudipta Sengupta" height="90" longdesc="Sudipta Sengupta's Photo" src="images/sudipta.jpg" width="70">
+		<img class="left" "alt="Lei Zhang" height="90" longdesc="Lei Zhang's Photo" src="images/leizhang.jpg" width="70">		
+		<img class="left" "alt="Weirong Zhu" height="90" longdesc="Weirong Zhu's Photo" src="images/weirongzhu.png" width="70">
 </tr>
 <tr>
 		<p>
 		Lead by <a href="http://research.microsoft.com/~jinl">Jin Li</a>, Cloud Computing and Storaging (CCS) group consists a team of 
-		researchers that are passionate about end-to-end research. 
+		researchers and engineers that are passionate about end-to-end research. 
 		They share a common belief that the ultimate milestone of cool system research is a product of significant impact. In addition 
 		to pursue original research and publishing papers in premier venues, they devote significant time and go the 
 		extra miles to work with product group and other partners to transfer the research into products. </p>
@@ -66,10 +68,12 @@ CCS: Cloud Computing and Storage
 		</p>
 		
 		<p>
-		CCS has recently expanded its research scope to cloud computing platform. 
-		It hopes to revolutionarize how people program a distributed cluster today, and makes highly efficient, fine-grain distributed programming assessible to 
-		the mass.
-		</p>
+		CCS has recently expanded its research scope to cloud computing platform. It developed Prajna, a distributed computing platform to fill the void of real-time big data 
+		computing on .Net platform. Prajna is open sourced at  https://github.com/msrccs/Prajna/. It is designed to be a generic distributed computing platform, with core 
+		functionality being the execution of an arbitrary closure (C#, F#, native code, etc.) on any remote node, in public cloud or in private cluster. It supports interactive 
+		big data computing across a cluster with in-memory computation. The programming API is similar to Spark. Prajna has also a managed web service (Prajna Hub), which can 
+		help developer to quickly prototype and host cloud service and run services on mobile Apps. Prajna also supports distributed machine learning (e.g., distributed neural 
+		network trainer using Caffe on each node).		</p>
 	</tr>
 </table>
 

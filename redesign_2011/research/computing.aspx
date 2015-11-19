@@ -8,7 +8,7 @@ Jin Li: Cloud Computing
 		<td>-->
 		<p>
 		
-<h1> Prajna: Cloud Service and Interactive Big Data Analytics</h1>
+<h1> <a href="http://msrccs.github.io/Prajna/"> Prajna: Cloud Service and Interactive Big Data Analytics </a> </h1>
 
 <p>
 		Dr. Li's latest passion is <a href="computing.aspx">Prajna</a>, a distributed 

@@ -24,9 +24,9 @@
 <div class="header">
 <div class="left">
 <p><br/>
-<a href="./">Jin Li, Principal Researcher & Manager </a><br/>
-Compression Communication and Storage<br/>
-Microsoft Research<br/>
+<a href="./">Jin Li, Partner Researcher Manager </a><br/>
+Cloud Computing and Storage<br/>
+Microsoft Research - Technologies<br/>
 Email: jinl@microsoft.com </p>
 </div>
 <div class="right">
