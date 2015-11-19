@@ -1,0 +1,70 @@
+Dr. Jin Li is a Partner Researcher Manager of the Cloud 
+Computing and Storage group at MSR Technologies. He is the architect and 
+the lead programmer of Prajna, a cloud programming platform (in 
+prototype). He believes that he can bring high efficient distributed 
+programming to the mass, and revolutionize how people program a 
+distributed cluster today.
+
+Partner with Windows Azure, he leads a small team of MSR researchers to 
+develop the local reconstruction code (LRC) in Windows Azure Storage. 
+This is a new family of erasure codes that provide significant	reduction 
+in storage overhead and cut down the minimum number of fragments that 
+need to be read to reconstruct a data fragment. It leads to hundreds of 
+millions dollars of savings for Microsoft, a Best Paper Award at USENIX 
+ATC 2012 and a 2013 Microsoft Technical Community Network Storage 
+Technical Achievement Award. His group has also architected the erasure 
+code used in Storage Spaces in Windows 8.1 and Windows Server 2012 R2, 
+and the erasure code used in Lync, Xbox and RemoteFX. 
+
+Partner with Windows File Server group, he architected and implemented 
+the Primary Data Deduplication feature in Windows Server 2012 and End-to-
+End Deduplication for Storage Virtualization in Windows Server 2012 R2. 
+Key contributions include a new data chunking algorithm, 	a low RAM 
+footprint indexing data structure to detect duplicate data (based on 
+ChunkStash), and a data partitioning and reconciliation technique, the 
+latter two for scaling index resource usage with data size. It leads to 
+major saving to customers (20-82%), and is among top 3 features for 
+Windows File Server introduced at Windows Server 2012. The feature has 
+received rave reviews from press, and there are evidence that some 
+customers upgrading to Windows Server 2012 for the primary data 
+deduplication feature only.
+
+He has pioneered a series of research to exploit the benefit of SSD for 
+high performance storage applications. His work, FlashStore, has 
+implemented a SSD optimized,	low RAM footprint key-value store that 
+organizes storage on flash in a log-structured manner. It was tech 
+transferred to Pegasus SSD in Microsoft backend. SkimpyStas has 
+implemented an ultra-low RAM footprint key-value store. The storage layer 
+design of SkimpyStash has been incorporated into BW-Tree, a joint project 
+with MSR Database group, and Azure DocumentDB team, and is shipping in 
+SQL Server 2014 (Hekaton) and Azure DocumentDB.
+
+Partner with Remote Desktop Virtualization (RDV) team, he has assisted to 
+architect and implement the RemoteFX for WAN feature in Windows 8 and 
+Windows Server 2012, which provides fast and fluid user experience in a 
+remote session running over any WAN and wireless networks. 
+
+His other invention has been integrated into many Microsoft products, 
+such as WMA9, Live Messenger, Live Mesh, Windows 7, Lync, Bing, Xbox Live. 
+He was awarded the prestigious Microsoft Gold Star Service Award 4 times, 
+in 1999, 2001, 2006 and 2010. Dr. Li has graduated from Microsoft Member 
+Bench Program in 2007. 
+
+
+He received his Ph.D. (with honor) from Tsinghua University in 1994. He 
+joined Microsoft in 1999, as one of the founding members of Microsoft 
+Research Asia (Beijing, China). (He has won a Microsoft Gold Star service 
+award in 1999 for his contribution). From 2000, Dr. Li has also served as 
+an Affiliated Professor in Tsinghua University. 
+
+He was the recipient of Young Investigator Award from Visual 
+Communication and Image Processing’98 (VCIP) in 1998, the ICME 2009 Best 
+Paper Award, and USENIX ATC 2012 Best Paper Award. He is/was the 
+Associate Editor/Guest Editor of IEEE Trans. On Multimedia, Journal of 
+Selected Area of Communication, Journal of Visual Communication and Image 
+Representation, P2P networking and applications, Journal of 
+Communications. He is the current ICME steering committee chair. 
+He has served/will serve as the General Chair of PV2009, the lead Program 
+Chair of ICME 2011, the TPC Chair of CCNC 2013 and the TPC Chair of ACM 
+Multimedia 2016. He is an IEEE Fellow. 
+
