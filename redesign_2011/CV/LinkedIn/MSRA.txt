@@ -1,0 +1,13 @@
+Worked in Image/Video compression standard, with invention adopted by H.264/JPEG 2000 standard as follows. 
+
+- Motion Compensated Lifting (a.k.a., Motion compensated temporal filtering) (incorporated 
+into H.264/SVC) 
+- JPEG Interactive Protocol (JPIP) (incorporated into JPEG 2000, Part 9)
+
+Dr. Li has represented Sharp Labs. of America in JPEG 2000 and MPEG4 standard activities, with invention adopted by H.264/MPEG 4/JPEG 2000 standard as follows. 
+
+- Operational rate-distortion (R-D) optimality in embedded coding and sub-bitplane scanning (incorporated into JPEG 2000). 
+- Visual weighting and visual progressive compression (incorporated into JPEG 2000)
+- Arbitrary shape wavelet transform with phase alignment " (incorporated into MPEG 4, shape adaptive wavelet coding )
+- Multiview Image Compression (pioneer work that leads to H.264 MVC)
+- Scalable audio coding ( incorporated into MPEG 4, audio lossless format )

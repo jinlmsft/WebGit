@@ -1,0 +1,25 @@
+Some selected projects are listed below. 
+* Deep Learning based Visual Intelligence
+Dr. Li's group shipped Celebrity Recognition API and part of the Caption API in Microsoft Cognitive Service. 
+
+* Local Reconstruction Code (greatly reduces the cost of cloud storage with no reduction on data reliability and minimum impact on storage performance). 
+- See story "The Code That No One in the Cloud Can Live Without" below. 
+- Save Microsoft hundreds of millions of dollars per annum. 
+- Shipped in Azure Storage, Storage Space in Windows 8/2012 server. 
+- Best Paper Award at USENIX ATC 2012
+- Microsoft TCN Storage Technical Achievement Award
+
+* Data Deduplication 
+- See Story "Eliminating Duplicated Primary Data" below. 
+- Shipped in Windows Server 2012.
+- Top 3 File Server features introduced. 
+- Evidence of Customer upgraded to Windows Server 2012 for the feature only. 
+
+* FlashStore
+- See Story "Faster Servers, Services with FlashStore" below. 
+- Shipped to Bing/AdCenter for high performance cloud object storage. 
+- Certain feature is incorporated into BW-Tree, which is shipping in SQL Server 2014  (Hekaton) and Azure DocumentDB. 
+
+* RemoteFX for WAN
+- Shipped in Windows 8/Server 2012
+- New communication protocol for Windows Remote Desktop. 
