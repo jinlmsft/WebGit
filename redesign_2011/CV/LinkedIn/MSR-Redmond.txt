@@ -20,6 +20,10 @@ Dr. Li's group shipped Celebrity Recognition API and part of the Caption API in 
 - Shipped to Bing/AdCenter for high performance cloud object storage. 
 - Certain feature is incorporated into BW-Tree, which is shipping in SQL Server 2014  (Hekaton) and Azure DocumentDB. 
 
+* Prajna
+- (Spark on .Net) A Distributed Functional Programming Platform for Interactive Big Data Analytics and Cloud Service Building 
+- Open sourced at https://github.com/MSRCCS/Prajna
+
 * RemoteFX for WAN
 - Shipped in Windows 8/Server 2012
 - New communication protocol for Windows Remote Desktop. 
