@@ -1,6 +1,9 @@
 Some selected projects are listed below. 
-* Deep Learning based Visual Intelligence
-Dr. Li's group shipped Celebrity Recognition API and part of the Caption API in Microsoft Cognitive Service. 
+* Deep Learning (DL) workspace
+- Turnkey cloud computing infrastructure for AI scientists.
+- AI scientists can manage AI training, interactive exploration, inference, and analytics on the cluster without any installation
+- Seamless setup/collaboration among AI scientists
+- Modularly built with heavy use of open source components (CoreOS and Ubuntu as basic OS with PXE deployment, Kubernetes + docker for orchestration, network file share via NFS, glusterFS, HDFS or Azure file share, ASP.Net/flask WebUI, OpenID for authentication)
 
 * Local Reconstruction Code (greatly reduces the cost of cloud storage with no reduction on data reliability and minimum impact on storage performance). 
 - See story "The Code That No One in the Cloud Can Live Without" below. 
