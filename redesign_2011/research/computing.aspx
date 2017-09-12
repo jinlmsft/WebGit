@@ -6,29 +6,20 @@ Jin Li: Cloud Computing
 		<td style="width: 238px">
 		&nbsp;</td>
 		<td>-->
-		<p>
+<h1> <a href="http://github.com/microsoft/DLWorkspace"> Deep Learning Workspace </a> </h1>
+<p>
+		He is the project lead of the <a href="https://github.com/microsoft/DLWorkspace"> Deep Learning workspace (DL workspace) </a>, 
+		an open sourced toolkit that empower AI scientists to quickly spin up a cloud AI infrastructure (either in public cloud, such as Azure, or in an on-perm cluster 
+		) to manage AI training, interactive exploration, inference, and analytics. DL Workspace supports all major Deep Learning toolkit out of box (e.g., TensorFlow, 
+		CNTK, Caffe, MxNet, etc..). It also supports big data analytics works such as Hadoop/Spark as well. 
+		DL Workspace is used in daily production by multiple Microsoft teams (Microsoft Cognitive Services, SwiftKeys, Bing Relevance, etc..).
+</p>
 		
 <h1> <a href="http://msrccs.github.io/Prajna/"> Prajna: Cloud Service and Interactive Big Data Analytics </a> </h1>
 
 <p>
-		Dr. Li's latest passion is <a href="computing.aspx">Prajna</a>, a distributed 
-		computing platform. Prajna is developed echoing the call for Microsoft 
-		to be the productivity and platform company for the mobile-first and 
-		cloud-first world. It fills the void of real-time big data computing on 
-		.Net platform. Prajna is open sourced at
-		<a href="https://github.com/msrccs/Prajna/">
-		https://github.com/msrccs/Prajna/</a>. It is designed to be a generic 
-		distributed computing platform, with core functionality being the 
-		execution of an arbitrary closure (C#, F#, native code, etc.) on any 
-		remote node, in public cloud or in private cluster. It supports 
-		interactive big data computing across a cluster with in-memory 
-		computation. The programming API is similar to Spark. Prajna has also a 
-		managed web service (Prajna Hub), which can help developer to quickly 
-		prototype and host cloud service and run services on mobile Apps. Prajna 
-		also supports distributed machine learning (e.g., distributed neural 
-		network trainer using Caffe on each node). Please find more information at:
-		<a href="http://msrccs.github.io/Prajna/">
-		http://msrccs.github.io/Prajna/</a> .
+His team has also open sourced <a href="http://msrccs.github.io/Prajna/">Prajna</a>, a Spark-like 
+functional computing platform on .Net. 
 </p>
 
 
