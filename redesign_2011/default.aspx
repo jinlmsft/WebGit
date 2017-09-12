@@ -92,7 +92,7 @@
 		<a href="http://research.microsoft.com/en-us/um/redmond/events/pv2009/">
 		PV2009</a>, the lead Program Chair of <a href="http://www.icme2011.org/">
 		ICME 2011</a>, the Program Co-Chair for <a href="http://www.acmmm.org/2016/">
-		CCNC 2013</a> ACM Multimedia 2016. 
+		ACM Multimedia 2016</a> . 
 		He is an IEEE Fellow. 
 </p>
 		<!--</td>
