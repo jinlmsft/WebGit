@@ -24,9 +24,9 @@
 <div class="header">
 <div class="left">
 <p><br/>
-<a href="./">Jin Li, Principal Researcher & Research Manager </a><br/>
+<a href="./">Jin Li, Partner Research Manager </a><br/>
 Cloud Computing and Storage<br/>
-MSR Technologies<br/>
+Microsoft Research<br/>
 Email: jinl@microsoft.com </p>
 </div>
 <div class="right">

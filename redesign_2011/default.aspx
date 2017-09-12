@@ -80,7 +80,10 @@
 		<a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua 
 		University</a>. 
 		He was awarded the prestigious Microsoft Gold Star Service Award 4 times, in 
-		1999, 2001, 2006 and 2010. <br>Dr. Li was 
+		1999, 2001, 2006 and 2010. 
+</p>
+<p> 
+		Dr. Li was 
 		the recipient of Young Investigator Award from Visual Communication and 
 		Image Processing’98 (VCIP) in 1998, the ICME 2009 Best Paper Award, and 
 		the <a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/huang">USENIX ATC 2012 Best Paper Award</a>. 
