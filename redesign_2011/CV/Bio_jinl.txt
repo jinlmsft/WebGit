@@ -8,11 +8,18 @@ etc..).. DL workspace also targets to enhance the productivity of AI scientist, 
 and model, allow scientists to easily collaborate, repeat and extend experiment among themselves. The platform is opensourced, 
 and is used in daily production and developed by multiple Microsoft teams (Microsoft Cognitive Services, Bing Relevance, etc..).
 
-Dr. Li's contribution has been shipped in a broad spectrum of Microsoft products, such as Windows Media, Live Messenger/Mesh, Windows, Skype for Business, Azure, Bing, Xbox Live. He was awarded the Microsoft Gold Star Service Award 4 times. 
+Dr. Li's contribution has been shipped in a broad spectrum of Microsoft products, such as Windows Media, Live Messenger/Mesh, 
+Windows, Skype for Business, Azure, Bing, Xbox Live. He was awarded the Microsoft Gold Star Service Award 4 times. 
 
-His work on the Local Reconstruction Code (LRC) has shipped in Azure Storage, which has lead to hundreds of millions dollars of saving to Microsoft per annum, a Best Paper Award at USENIX ATC 2012 and a Microsoft TCN Storage Technical Achievement Award. LRC has also been used in Storage Space (shipped in Windows & Windows Server). 
+His work on the Local Reconstruction Code (LRC) has shipped in Azure Storage, which has lead to hundreds of millions dollars of 
+saving to Microsoft per annum, a Best Paper Award at USENIX ATC 2012 and a Microsoft TCN Storage Technical Achievement Award. LRC 
+has also been used in Storage Space (shipped in Windows & Windows Server). 
 
-His work on Data Deduplication in Windows Server 2012 is among the top 3 File Server features introduced. It has received rave press reviews. His work to exploit the benefit of SSD for high performance storage applications has lead to "FlashStore" and SkimpyStash, the former has been shipped in Bing/AdCenter for cloud object storage, the latter has been incorporated into BW-Tree, which is shipping in SQL Server 2014  (Hekaton) and Azure DocumentDB. 
+His work on Data Deduplication in Windows Server 2012 is among the top 3 File Server features introduced. It has received rave press 
+reviews. His work to exploit the benefit of SSD for high performance storage applications has lead to "FlashStore" and SkimpyStash, 
+the former has been shipped in Bing/AdCenter for cloud object storage, the latter has been incorporated into BW-Tree, which is 
+shipping in SQL Server 2014  (Hekaton) and Azure DocumentDB. 
 
-Dr. Li has demonstrated computer programming to Xiaoping Deng in 1984 (an iconic event in China). He received Ph.D. (with honor) from Tsinghua University in 1994, and was the youngest Ph.D. in China at that time. He joined Microsoft in 1999, as one of the founding members of Microsoft Research Asia. He was the program chair for ACM Multimedia 2016 and ICME steering committee chair. He is an IEEE Fellow.  
+Dr. Li has demonstrated computer programming to Xiaoping Deng in 1984 (an iconic event in China). He received Ph.D. (with honor) from 
+Tsinghua University in 1994, and was the youngest Ph.D. in China at that time. He joined Microsoft in 1999, as one of the founding members of Microsoft Research Asia. He was the program chair for ACM Multimedia 2016 and ICME steering committee chair. He is an IEEE Fellow.  
 

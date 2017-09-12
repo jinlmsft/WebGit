@@ -17,7 +17,7 @@
 <div class="left">
 <p><br/>
 <a href="./">Cloud Computing and Storage </a><br/>
-Microsoft Research Technologies<br/>
+Microsoft Research<br/>
 Email: jinl@microsoft.com </p>
 </div>
 <div class="right">
