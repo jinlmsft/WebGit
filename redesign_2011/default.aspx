@@ -13,10 +13,13 @@
 		</p>
 		
 		<p>
-		He is the project lead of the <a href="https://github.com/microsoft/DLWorkspace"> Deep Learning workspace (DL workspace) </a>, 
+		He is the project lead of the <a href="https://microsoft.github.io/DLWorkspace/"> Deep Learning workspace (DL workspace) </a>, 
 		an open sourced toolkit that empower AI scientists to quickly spin up a cloud AI infrastructure (either in public cloud, such as Azure, or in an on-perm cluster 
 		) to manage AI training, interactive exploration, inference, and analytics. DL Workspace supports all major Deep Learning toolkit out of box (e.g., TensorFlow, 
-		CNTK, Caffe, MxNet, etc..). It also supports big data analytics works such as Hadoop/Spark as well. 
+		CNTK, Caffe, MxNet, etc..). It also supports big data analytics works such as Hadoop/Spark as well. Please check out Videos: 
+		<a href="https://youtu.be/Xa7exVurUmE">DL Workspace running TensorFlow</a>, 
+		<a href="https://youtu.be/9kV9_w-eQYY">DL Workspace running Spark</a>, 
+		<a href="https://youtu.be/T_00DrSxl70">Setting up DL Workspace</a>. 
 		DL Workspace is used in daily production by multiple Microsoft teams (Microsoft Cognitive Services, SwiftKeys, Bing Relevance, etc..).
 		</p>
 		
